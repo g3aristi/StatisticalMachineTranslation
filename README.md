@@ -1,0 +1,2 @@
+# StatisticalMachineTranslation
+Statistical Machine Translation
